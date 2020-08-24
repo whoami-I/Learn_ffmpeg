@@ -24,6 +24,4 @@ Java_com_zasko_ffmpeg_RenderManager_getConfig(JNIEnv *env, jclass type);
 JNIEXPORT jstring JNICALL
 Java_com_example_learn_1fmpeg_MainActivity_getConfig(JNIEnv *env, jobject thiz);
 
-};
-
 #endif
